@@ -77,3 +77,6 @@ tr, td {
 	overflow-wrap: break-word ;
   font-size: 90%;
 }
+b {
+    color: #e89dd7;
+}
