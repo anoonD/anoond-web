@@ -1,13 +1,17 @@
 body {
   color: #e7dbc3;
   font-family: monospace;
-  background-color: #181818;
+  background-image: url("data/gi.gif");
   text-align: center;  
 }
 main {
-  max-width: 98%;
+  max-width: 80%;
   margin: auto;
   padding: 0.1%;
+  background-color: #181818;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
 }
 
 a {
